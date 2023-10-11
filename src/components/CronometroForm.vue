@@ -22,9 +22,3 @@
     },
     })
 </script>
-
-<style scoped>
-    .display{
-        color:var(--texto-primario);
-    }
-</style>
